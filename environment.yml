@@ -4,3 +4,5 @@ dependencies:
   - pandas
   - jupyterlab
   - autopep8
+  - openpyxl
+  - matplotlib
