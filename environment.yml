@@ -1,0 +1,6 @@
+name: h2_skeptic
+dependencies:
+  - python=3.9
+  - pandas
+  - jupyterlab
+  - autopep8
