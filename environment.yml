@@ -5,4 +5,7 @@ dependencies:
   - jupyterlab
   - autopep8
   - openpyxl
+  - xlrd
+  - lxml
   - matplotlib
+  - seaborn
